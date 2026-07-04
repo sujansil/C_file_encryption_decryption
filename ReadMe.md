@@ -9,13 +9,16 @@ This is a terminal based file encryptor decryptor. Takes input directly from ter
 
 ## How to use
 After compiling the code user need to enter :
+
 For Encryption - 
 ```bash
 ./cypher -e <the text file>
+```
 
 For Decryption - 
 ```bash
 ./cypher -d <the text file>
+```
 
 ## Tools Used 
 1. C
