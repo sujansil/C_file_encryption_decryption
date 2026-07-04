@@ -1,5 +1,5 @@
 # File Encrypter Decrypter🔐
-	This is a terminal based file encryptor decryptor. Takes input directly from terminal for any .txt file.
+This is a terminal based file encryptor decryptor. Takes input directly from terminal for any .txt file.
 
 ## Features 
 1. **Encryption** : The input of the user is encrypted by shifting the ASCII value by 3 and lopping that.
@@ -8,7 +8,7 @@
 4. **Text File** : Again the user can directly input the text file in the command line. 
 
 ## How to use
-	After compiling the code user need to enter :
+After compiling the code user need to enter :
 For Encryption - 
 ```bash
 ./cypher -e <the text file>
@@ -21,5 +21,5 @@ For Decryption -
 1. C
 
 ## Personal Note 
-	This is my first project where i actually wrote something inside the `int main()` and directly used terminal to take input.
+This is my first project where i actually wrote something inside the `int main()` and directly used terminal to take input.
 
